@@ -1,0 +1,1 @@
+{"query":"{\\n  Email{templateId\\n    thumbnail\\n  }\\n}","variables":null,"operationName":null}

@@ -1,0 +1,1 @@
+{"query":"mutation{\n  createUser(\n    email:\"er.akanksha.sri14563@gmail.com\"\n    phoneNumber:\"+919711177369\"\n    firstName:\"aa\"\n    middleName:\"\"\n    lastName:\"dd\"\n    picture:\"a.jpg\"\n    gender:\"Female\"\n    zoneInfo:\"Ist\"\n  ){\n    userName\n  }\n}","variables":null}

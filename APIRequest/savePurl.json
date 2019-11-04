@@ -1,0 +1,1 @@
+{"query":"mutation{\\n  savePurl(templateId:update_templateId\\n  name:\\\"update_name\\\"\\n  description:\\\"update_description\\\"){\\n    purlId\\n  }\\n}","variables":null}

@@ -1,0 +1,2 @@
+{"query":"\\n\\n{\\n  Purl(purlId:\\\"update_purlId\\\"){\\n    purlId\\n    name\\n    description\\n    isActive\\n    purlOwner\\n    prntPurlId\\n    purlType\\n    thumbnail\\n    createdBy\\n    createdOn\\n    modifiedBy\\n    modifiedOn\\n    templateId\\n    slides{\\n      slideName\\n      slideNo\\n      orderBy\\n      hideSlide\\n      isLocked\\n      slideOwner\\n      components{\\n        type\\n        name\\n        id\\n        locked\\n        componentLayer\\n      }\\n      \\n    }\\n  }\\n}\\n\\n\\n","variables":null,"operationName":null}
+

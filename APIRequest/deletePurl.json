@@ -1,0 +1,1 @@
+{"query":"mutation{deletePurl(purlId:\\\"update_purlId\\\"){message,statusCode,code}}","variables":null}

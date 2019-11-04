@@ -1,0 +1,1 @@
+{"query":"mutation{\\n createEmailTemplate(name:\\\"update_name\\\"\\n description:\\\"AutomationTest\\\"\\n isActive:true\\n content:\\\"content\\\"\\n thumbnail:\\\"abc.jpg\\\"\\n templateId:update_templateId)\\n {\\n   eTemplateId\\n }\\n}","variables":null}

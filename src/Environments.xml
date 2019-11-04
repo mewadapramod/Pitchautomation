@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENV>
+    <QA>
+     <VER_FEB_2018>
+            <LAMBDA_URL>https://ycpro0m1gf.execute-api.us-east-1.amazonaws.com/qa/apis</LAMBDA_URL>
+            <APP_URL>https://ycpro0m1gf.execute-api.us-east-1.amazonaws.com/qa</APP_URL>
+            <DSN>psuica</DSN>
+            <seleniumURI>ondemand.saucelabs.com:80</seleniumURI>
+            <currency>$</currency>
+            <acceptLanguage>en-us</acceptLanguage>
+            <pmVersion>application/json, text/javascript, */*; q=0.01</pmVersion>
+            <x-os-name>web</x-os-name>
+            <x-os-version>1</x-os-version>
+            <TM_ARCHTICS_VERSION>V999</TM_ARCHTICS_VERSION>
+            <TM_UID>iomed05</TM_UID>
+        </VER_FEB_2018>
+        <VER_JAN_2018>
+            <LAMBDA_URL>https://ycpro0m1gf.execute-api.us-east-1.amazonaws.com/qa/apis</LAMBDA_URL>
+            <DSN>psuica</DSN>
+            <seleniumURI>ondemand.saucelabs.com:80</seleniumURI>
+            <currency>$</currency>
+            <acceptLanguage>en-us</acceptLanguage>
+            <pmVersion>application/json, text/javascript, */*; q=0.01</pmVersion>
+            <x-os-name>web</x-os-name>
+            <x-os-version>1</x-os-version>
+            <TM_ARCHTICS_VERSION>V999</TM_ARCHTICS_VERSION>
+            <TM_UID>iomed05</TM_UID>
+        </VER_JAN_2018>
+    </QA>
+    <DEV>
+        <VER_JAN_2018>
+            <APP_URL>https://amgr.io-media.com/iomediaqacms</APP_URL>
+            <LAMBDA_URL> https://ycpro0m1gf.execute-api.us-east-1.amazonaws.com/qa/apis</LAMBDA_URL>
+            <CLIENT_SECRET>cAyPhupq0wFh_Qzgni1fsomi7xUwfvTwdHhvO8o4s74</CLIENT_SECRET>
+            <CLIENT_ID>iomediaqaunitas.integration</CLIENT_ID>
+            <DSN>unitas</DSN>
+            <seleniumURI>localhost:4446</seleniumURI>
+            <currency>$</currency>
+            <TM_HOST>https://qa1.acctmgr.us-east-1.nonprod-tmaws.io</TM_HOST>
+            <amgrVersion>application/vnd.amgr.v1.5+json</amgrVersion>
+            <acceptLanguage>en-us</acceptLanguage>
+            <x-client>iomediaqaunitas</x-client>
+            <x-api-key>6ca830a9-0aa2-11e7-bce4-0afa92bc63fa</x-api-key>
+            <x-os-name>web</x-os-name>
+            <x-os-version>8</x-os-version>
+            <TM_ARCHTICS_VERSION>V999</TM_ARCHTICS_VERSION>
+            <TM_UID>INET01</TM_UID>
+        </VER_JAN_2018>
+    </DEV>
+</ENV>

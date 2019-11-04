@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Suite">
+  <test name="Chrome">
+    <parameter name="browser" value="CHROME1"/>
+    <classes>
+      <class name="org.iomedia.galen.tests.APITesting">
+        <methods>
+          <include name="createCampaignByPrivatePurlCreatePurlAPI"/>
+        </methods>
+      </class> <!-- org.iomedia.galen.tests.APITesting -->
+    </classes>
+  </test> <!-- Chrome -->
+</suite> <!-- Suite -->
+

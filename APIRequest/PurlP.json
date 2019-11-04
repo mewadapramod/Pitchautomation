@@ -1,0 +1,2 @@
+{"query":"{Purl(purlId:\\\"update_purlId\\\"){name,,purlType,purlId,purlOwner,createdBy,modifiedBy,modifiedOn}}","variables":null,"operationName":null}
+

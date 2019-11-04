@@ -1,0 +1,5 @@
+{
+"query":"{\n SearchArchiticsCustomers(architicsId:\"1\"){\n Customers{\n fName\n }\n }\n}",
+"variables":null,
+"operationName":null
+}
